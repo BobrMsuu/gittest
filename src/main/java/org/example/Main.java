@@ -5,7 +5,11 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Diff");
         System.out.println("change 3");
+<<<<<<< Updated upstream
         System.out.println("git diff");
         System.out.println("git status");
+=======
+        System.out.println("Hello from NY!");
+>>>>>>> Stashed changes
     }
 }
