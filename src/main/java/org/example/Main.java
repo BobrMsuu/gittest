@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Diff");
         System.out.println("change 3");
         System.out.println("git diff");
+        System.out.println("git status");
     }
 }
